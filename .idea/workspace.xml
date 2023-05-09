@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7e700e1-da10-42fd-90a3-5ac1bef393cb" name="Changes" comment="Reviews file update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2IM6xYsGUg6JwSRy1fXAYbiE0kJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b43fdd98b1fd705ae4c3a10cf25aad8a&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.backend.payload" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
+    <configuration name="BackendApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7e700e1-da10-42fd-90a3-5ac1bef393cb" name="Changes" comment="" />
+      <created>1669979355484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669979355484</updated>
+      <workItem from="1669979357105" duration="3084000" />
+      <workItem from="1669983587517" duration="3063000" />
+      <workItem from="1670457654125" duration="1320000" />
+      <workItem from="1670472401119" duration="7469000" />
+      <workItem from="1670551642493" duration="1861000" />
+      <workItem from="1670823213725" duration="658000" />
+      <workItem from="1670937050142" duration="12000" />
+      <workItem from="1671156289748" duration="658000" />
+      <workItem from="1672010269349" duration="11092000" />
+      <workItem from="1672042841561" duration="975000" />
+      <workItem from="1672234884861" duration="4694000" />
+      <workItem from="1672287785984" duration="2373000" />
+      <workItem from="1672330304963" duration="1967000" />
+      <workItem from="1672525766691" duration="13000" />
+      <workItem from="1672791255121" duration="7088000" />
+      <workItem from="1672821202979" duration="3000" />
+      <workItem from="1672943847744" duration="27000" />
+      <workItem from="1673055717994" duration="3235000" />
+      <workItem from="1673075694813" duration="1497000" />
+      <workItem from="1673117622751" duration="410000" />
+      <workItem from="1673332041571" duration="76000" />
+      <workItem from="1673433362060" duration="211000" />
+      <workItem from="1673434534671" duration="1357000" />
+      <workItem from="1673546522791" duration="1497000" />
+      <workItem from="1673602016049" duration="303000" />
+      <workItem from="1673861350483" duration="21000" />
+      <workItem from="1673861507012" duration="3339000" />
+      <workItem from="1674111094592" duration="64000" />
+      <workItem from="1674111429873" duration="32000" />
+      <workItem from="1674150547793" duration="236000" />
+      <workItem from="1674212718052" duration="1315000" />
+      <workItem from="1674286734255" duration="7434000" />
+      <workItem from="1674398864443" duration="96000" />
+      <workItem from="1674449331552" duration="597000" />
+      <workItem from="1674458230405" duration="679000" />
+      <workItem from="1674463457953" duration="59000" />
+      <workItem from="1674467776363" duration="635000" />
+      <workItem from="1674722202897" duration="5087000" />
+      <workItem from="1674789707086" duration="682000" />
+      <workItem from="1674796453032" duration="11085000" />
+      <workItem from="1676262267818" duration="1475000" />
+      <workItem from="1676271025014" duration="2633000" />
+      <workItem from="1676349144995" duration="323000" />
+      <workItem from="1676352373556" duration="4383000" />
+      <workItem from="1676962946303" duration="6684000" />
+      <workItem from="1677043554921" duration="2186000" />
+      <workItem from="1677051194852" duration="6972000" />
+      <workItem from="1677128488503" duration="3133000" />
+      <workItem from="1677215471174" duration="4745000" />
+      <workItem from="1677227719271" duration="3099000" />
+      <workItem from="1677304772962" duration="4311000" />
+      <workItem from="1677473426516" duration="610000" />
+      <workItem from="1677731775932" duration="11270000" />
+      <workItem from="1677818888598" duration="6998000" />
+      <workItem from="1677851094624" duration="15723000" />
+      <workItem from="1677910611056" duration="5144000" />
+      <workItem from="1677945908372" duration="1188000" />
+      <workItem from="1677996902654" duration="6815000" />
+      <workItem from="1678175127409" duration="6122000" />
+      <workItem from="1678263134919" duration="2975000" />
+      <workItem from="1678351365718" duration="3032000" />
+      <workItem from="1678368779632" duration="978000" />
+      <workItem from="1678380481365" duration="9691000" />
+      <workItem from="1678427745354" duration="603000" />
+      <workItem from="1678437026768" duration="3959000" />
+      <workItem from="1678505854448" duration="6503000" />
+      <workItem from="1678523692623" duration="8532000" />
+      <workItem from="1678546882445" duration="5798000" />
+      <workItem from="1678610622401" duration="15135000" />
+      <workItem from="1678703735950" duration="1024000" />
+      <workItem from="1678939093920" duration="5719000" />
+      <workItem from="1679042773779" duration="1982000" />
+      <workItem from="1679130760310" duration="47000" />
+      <workItem from="1679473846930" duration="5074000" />
+      <workItem from="1679632870108" duration="8620000" />
+      <workItem from="1679718774692" duration="5099000" />
+      <workItem from="1679897055836" duration="634000" />
+      <workItem from="1679974581816" duration="5062000" />
+      <workItem from="1680069868301" duration="7473000" />
+      <workItem from="1680155268579" duration="5197000" />
+      <workItem from="1680500257043" duration="14034000" />
+      <workItem from="1680606145147" duration="2853000" />
+      <workItem from="1680612088179" duration="1910000" />
+      <workItem from="1680665446601" duration="10423000" />
+      <workItem from="1680759769635" duration="8955000" />
+      <workItem from="1680780918289" duration="689000" />
+      <workItem from="1680845744609" duration="7402000" />
+      <workItem from="1680869379964" duration="10879000" />
+      <workItem from="1680963998261" duration="5123000" />
+      <workItem from="1680971722481" duration="13269000" />
+      <workItem from="1681059952210" duration="17297000" />
+      <workItem from="1681106678512" duration="6968000" />
+      <workItem from="1681133578875" duration="31160000" />
+      <workItem from="1681343061721" duration="660000" />
+      <workItem from="1681365075875" duration="5926000" />
+      <workItem from="1681386063670" duration="321000" />
+      <workItem from="1681457687783" duration="2320000" />
+      <workItem from="1681464230466" duration="488000" />
+      <workItem from="1681482441536" duration="17496000" />
+      <workItem from="1681546612333" duration="726000" />
+      <workItem from="1681548585873" duration="681000" />
+      <workItem from="1681655006867" duration="8969000" />
+      <workItem from="1681788220383" duration="2236000" />
+      <workItem from="1682392081257" duration="9542000" />
+      <workItem from="1682476246767" duration="14828000" />
+      <workItem from="1682522197590" duration="10982000" />
+      <workItem from="1682566949717" duration="29794000" />
+      <workItem from="1682898232345" duration="569000" />
+      <workItem from="1683186364374" duration="666000" />
+      <workItem from="1683524618549" duration="1315000" />
+      <workItem from="1683601647172" duration="1247000" />
+      <workItem from="1683610924306" duration="796000" />
+    </task>
+    <task id="LOCAL-00001" summary="component added">
+      <created>1674212794697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674212794697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Database Table Created">
+      <created>1674291437495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674291437495</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Api created">
+      <created>1678546926166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678546926166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new Api created">
+      <created>1679977410220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679977410220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Api Updated">
+      <created>1680869464279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680869464279</updated>
+    </task>
+    <task id="LOCAL-00006" summary="backend almost completed">
+      <created>1681343121905</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681343121905</updated>
+    </task>
+    <task id="LOCAL-00007" summary="backend almost completed">
+      <created>1681374630756</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681374630756</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Reviews file update">
+      <created>1681386380383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681386380383</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Reviews file update">
+      <created>1683611513092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683611513092</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Reviews file update">
+      <created>1683611549659</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683611549659</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="component added" />
+    <MESSAGE value="Database Table Created" />
+    <MESSAGE value="Api created" />
+    <MESSAGE value="new Api created" />
+    <MESSAGE value="Api Updated" />
+    <MESSAGE value="backend almost completed" />
+    <MESSAGE value="Reviews file update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reviews file update" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backend$BackendApplication.ic" NAME="BackendApplication Coverage Results" MODIFIED="1680768515434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

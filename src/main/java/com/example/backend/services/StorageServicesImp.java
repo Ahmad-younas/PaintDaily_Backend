@@ -2,6 +2,7 @@ package com.example.backend.services;
 
 import com.example.backend.entity.ImageData;
 import com.example.backend.repository.FileDataRepository;
+import lombok.extern.java.Log;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 

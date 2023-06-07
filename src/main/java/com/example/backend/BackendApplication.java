@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class BackendApplication implements WebMvcConfigurer {
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-		String path = "file:///C:/backend/src/main/resources/static/images/";
+		String path = "file:///C:/Users/Admin/IdeaProjects/PaintDaily_Backend/src/main/resources/static/images/";
 		registry.addResourceHandler("/images/**").addResourceLocations(path);
 	}
 

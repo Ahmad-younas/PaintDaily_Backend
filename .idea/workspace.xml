@@ -4,7 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e700e1-da10-42fd-90a3-5ac1bef393cb" name="Changes" comment="Reviews file update" />
+    <list default="true" id="f7e700e1-da10-42fd-90a3-5ac1bef393cb" name="Changes" comment="Reviews file update">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ba6cc1e0-9972-4d25-a48f-3a7ae47766a2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ba6cc1e0-9972-4d25-a48f-3a7ae47766a2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1674926719153.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/22631852.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/601014116770475.6068beff4640a.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DSC04247.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/DevOps_RoadMap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sequence Diagram.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cv2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/istockphoto-1344688156-170667a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plus-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile-pic (3) (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sharyer.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/typescript-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/you12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/backend/BackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/BackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/backend/services/StorageServicesImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/backend/services/StorageServicesImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/GPID_1100666334_01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/br1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/br3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/br4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/co2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/co3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/dis3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/dis4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/dis5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/exp1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/w1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/w5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/wallpaper-room-shot-asian-paints-W172XM40N75.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/wallpaperimg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/backend/BackendApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/backend/BackendApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/backend/services/StorageServicesImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/backend/services/StorageServicesImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/GPID_1100666334_01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/br1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/br3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/br4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/dis3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/dis5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/exp1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/w1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/w5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/wallpaper-room-shot-asian-paints-W172XM40N75.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/wallpaperimg.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +125,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -73,7 +133,8 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;b43fdd98b1fd705ae4c3a10cf25aad8a&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -103,7 +164,7 @@
     </configuration>
     <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
-      <module name="backend" />
+      <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backend.BackendApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -230,6 +291,12 @@
       <workItem from="1683524618549" duration="1315000" />
       <workItem from="1683601647172" duration="1247000" />
       <workItem from="1683610924306" duration="796000" />
+      <workItem from="1685933659543" duration="562000" />
+      <workItem from="1685940001132" duration="13228000" />
+      <workItem from="1686011298053" duration="3520000" />
+      <workItem from="1686018743354" duration="2645000" />
+      <workItem from="1686101463040" duration="3211000" />
+      <workItem from="1686128178702" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="component added">
       <created>1674212794697</created>
